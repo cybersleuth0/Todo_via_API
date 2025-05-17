@@ -19,7 +19,7 @@ A beautiful Flutter application that fetches and displays todos from a REST API 
 
 | Loading State                                   | Todo List                                    | Error State                                   |
 | ----------------------------------------------- | -------------------------------------------- | --------------------------------------------- |
-| <img src="Screenshot 2025-05-17 172002.png" width="200"> | <img src="screenshots/list.png" width="200"> | <img src="screenshots/error.png" width="200"> |
+| <img src="screenshots/loading.png" width="200"> | <img src="screenshots/todo.png" width="200"> | <img src="screenshots/error.png" width="200"> |
 
 ## API Overview
 
