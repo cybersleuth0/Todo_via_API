@@ -74,6 +74,7 @@ class Homepage extends StatefulWidget {
 }
 
 class _HomePageState extends State<Homepage> {
+
   Future<TodoDataModel> getTodosViaAPI() async {
     final response = await http.get(Uri.parse("https://dummyjson.com/todos"));
     if (response.statusCode == 200) {
